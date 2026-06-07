@@ -1,4 +1,3 @@
-﻿# QR-code--generator
 # QR Code Generator
 
 A simple Python application that generates QR codes from text, URLs, or other data.
